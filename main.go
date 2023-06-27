@@ -12,6 +12,7 @@ import (
 
 const (
 	// Per: https://developers.cloudflare.com/cloudflare-one/identity/authorization-cookie/validating-json/
+	// Replace this based on your Teams URL for Cloudflare
 	jwksURL = `https://srnd.cloudflareaccess.com/cdn-cgi/access/certs`
 )
 
